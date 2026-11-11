@@ -1,0 +1,47 @@
+{
+  "name": "mcp-hari-libur-indonesia",
+  "version": "1.0.0",
+  "description": "MCP server for Indonesian public holidays, cuti bersama (SKB 3 Menteri 2025-2027) and working-day math. Offline.",
+  "mcpName": "io.github.EzkielynaGroup/mcp-hari-libur-indonesia",
+  "type": "module",
+  "bin": {
+    "mcp-hari-libur-indonesia": "mcp-hari-libur-indonesia.mjs"
+  },
+  "files": [
+    "mcp-hari-libur-indonesia.mjs",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "indonesia",
+    "hari-libur",
+    "libur-nasional",
+    "cuti-bersama",
+    "public-holidays",
+    "working-days",
+    "business-days",
+    "hari-kerja",
+    "claude-desktop",
+    "claude-code",
+    "cursor",
+    "opencode"
+  ],
+  "author": "Ezekiel Lieberhart (Ezkielyna)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzkielynaGroup/mcp-hari-libur-indonesia.git"
+  },
+  "homepage": "https://github.com/EzkielynaGroup/mcp-hari-libur-indonesia#readme",
+  "bugs": {
+    "url": "https://github.com/EzkielynaGroup/mcp-hari-libur-indonesia/issues"
+  }
+}

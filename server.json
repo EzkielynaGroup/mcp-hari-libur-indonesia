@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.EzkielynaGroup/mcp-hari-libur-indonesia",
+  "title": "Hari Libur Indonesia",
+  "description": "Indonesian holidays and cuti bersama 2025-2027 (SKB 3 Menteri) plus working-day math. Offline.",
+  "repository": {
+    "url": "https://github.com/EzkielynaGroup/mcp-hari-libur-indonesia",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "mcp-hari-libur-indonesia",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
